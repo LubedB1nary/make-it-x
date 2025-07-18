@@ -1,0 +1,23 @@
+[
+	{
+	  "id": 1,
+	  "img": "author.jpg",
+	  "title": "Carol",
+	  "author": "Carol",
+	  "desc": "Carol once tried to become a professional napper but realized binge-watching shows was more her style. When not avoiding responsibilities, she’s busy making the world a funnier place."
+	},
+	{
+	  "id": 2,
+	  "img": "author.jpg",
+	  "title": "Kara",
+	  "author": "Kara",
+	  "desc": "Kara’s superpower is turning coffee into code. Rumor has it she can debug bugs just by glaring at her screen. Still waiting for her cape to arrive."
+	},
+	{
+	  "id": 3,
+	  "img": "author.jpg",
+	  "title": "Alex",
+	  "author": "Alex",
+	  "desc": "Alex once convinced everyone they were a ninja, but really just tripped over their own feet. Now mastering the art of walking without embarrassing themselves."
+	}
+  ]
